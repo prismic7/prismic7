@@ -1,4 +1,4 @@
-<h2>Hola! I'm Frinz Hughwie Bautista</h2>
+<h2>Hola! I'm Frinz Hughwie Bautista.</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
