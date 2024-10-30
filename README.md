@@ -24,6 +24,9 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
+### 📄 &nbsp;Certificates
+
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -31,13 +34,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prismic7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="www.linkedin.com/in/yuwi-bautista-2b4b531a3"></a>
-<a href="https://www.instagram.com/yvweii/"></a>
-<a href="https://www.facebook.com/frinzhughwie.bautista.5/"><img src="https://img.shields.io/badge/"/></a>
-</p>
-
 -----
+
