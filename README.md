@@ -28,17 +28,17 @@
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prismic7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prismic7&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="www.linkedin.com/in/yuwi-bautista-2b4b531a3"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/yvweii/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/frinzhughwie.bautista.5/"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="www.linkedin.com/in/yuwi-bautista-2b4b531a3"></a>
+<a href="https://www.instagram.com/yvweii/"></a>
+<a href="https://www.facebook.com/frinzhughwie.bautista.5/"></a>
 </p>
 
 -----
