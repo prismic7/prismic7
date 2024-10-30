@@ -30,7 +30,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/prismic7">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=prismic7&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
