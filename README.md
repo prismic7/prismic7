@@ -24,7 +24,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ### 📄 &nbsp;Certificates
-https://courses.cognitiveclass.ai/certificates/e8866d90116e43bc9b588623404e9910
+<a href="https://courses.cognitiveclass.ai/certificates/e8866d90116e43bc9b588623404e9910" rel="nofollow">SQL and Relational Databases 101</a>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
