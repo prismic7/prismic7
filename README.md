@@ -24,7 +24,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
 ### 📄 &nbsp;Certificates
-<a href="https://courses.cognitiveclass.ai/certificates/e8866d90116e43bc9b588623404e9910" rel="nofollow">SQL and Relational Databases 101</a>&nbsp;
+<a href="https://courses.cognitiveclass.ai/certificates/e8866d90116e43bc9b588623404e9910" rel="nofollow">SQL and Relational Databases 101</a><br>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=855E72E3B5D3DA87F45BD9581A7F28C5FF095BCB7111398F6DBA9830F4E65698" rel="nofollow">Oracle Cloud Infrastructure 2024 Foundations Associate</a>
 ### ⚙️ &nbsp;GitHub Analytics
 
