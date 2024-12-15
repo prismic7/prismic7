@@ -26,7 +26,9 @@
 ### 📄 &nbsp;Certificates
 <a href="https://courses.cognitiveclass.ai/certificates/e8866d90116e43bc9b588623404e9910" rel="nofollow">SQL and Relational Databases 101</a><br>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=855E72E3B5D3DA87F45BD9581A7F28C5FF095BCB7111398F6DBA9830F4E65698" rel="nofollow">Oracle Cloud Infrastructure 2024 Certified Foundations Associate</a><br>
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=855E72E3B5D3DA87F45BD9581A7F28C5542E0D4722CCF773F941312D7EF2E49B" rel="nofollow">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=855E72E3B5D3DA87F45BD9581A7F28C5542E0D4722CCF773F941312D7EF2E49B" rel="nofollow">Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate</a><br>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D5DE4FF09FDC593211839FAEE1C8EE7D587DD7F4C900779EE6A3E35008BD8344" rel="nofollow">Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate</a>
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
