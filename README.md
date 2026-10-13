@@ -7,7 +7,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Database Management.\
 ✍️ &nbsp;In my free time, I pursue 2D/3D Design and Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussions.\
-✉️ &nbsp;You can shoot me an email at prismiclegacy@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at frinzhughwiebautista@gmail.com! I'll try to respond as soon as I can.
 
 ### 🛠 &nbsp;Tech Stack
 
